@@ -87,3 +87,7 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ by [Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A front-end e-commerce project that recreates the core experience of an online storefront. It demonstrates responsive web design, product presentation, navigation and interactive shopping interfaces using HTML, CSS and JavaScript.
