@@ -2,6 +2,13 @@
 
 A modern e-commerce landing page showcasing products with an attractive design and call-to-action elements.
 
+<p align="center">
+  <img src="docs/images/desktop.jpg" alt="BlogShop landing page on desktop" width="72%">
+  &nbsp;
+  <img src="docs/images/mobile.jpg" alt="BlogShop landing page on mobile" width="22%">
+</p>
+<p align="center"><sub>Desktop and mobile views</sub></p>
+
 ## 📋 Overview
 
 A professional landing page built with HTML and CSS designed to showcase products, attract customers, and drive conversions.
